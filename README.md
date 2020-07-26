@@ -2,7 +2,8 @@
 
 > React hooks for Media Session API
 
-[![NPM](https://img.shields.io/npm/v/use-media-session.svg)](https://www.npmjs.com/package/use-media-session) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/use-media-session.svg)](https://www.npmjs.com/package/use-media-session)
+[![bundlephobia](https://img.shields.io/bundlephobia/minzip/use-media-session)](https://bundlephobia.com/result?p=use-media-session)
 
 ## Install
 
@@ -10,21 +11,23 @@
 npm install --save use-media-session
 ```
 
+or
+
+```bash
+yarn add use-media-session
+```
+
 ## Usage
 
 ```tsx
-import * as React from 'react'
-
-import { useMyHook } from 'use-media-session'
+import React from 'react';
+import { useMediaMeta } from 'use-media-session';
 
 const Example = () => {
-  const example = useMyHook()
-  return (
-    <div>
-      {example}
-    </div>
-  )
-}
+  useMediaMeta({
+    title: 'A title for your media',
+  });
+};
 ```
 
 ## License

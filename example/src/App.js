@@ -24,7 +24,7 @@ const App = () => {
         </a>
       </div>
       <h2 style={{ marginTop: '5rem' }}>Install</h2>
-      <pre>npm install use-media-session</pre>
+      <pre>npm install --save use-media-session</pre>
       <p>or</p>
       <pre>yarn add use-media-session</pre>
       <h2 style={{ marginTop: '5rem' }}>Examples</h2>

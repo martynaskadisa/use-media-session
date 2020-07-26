@@ -1,6 +1,5 @@
 /// <reference types="react-scripts" />
 
-
 interface MediaMetadataOptions {
   title?: string;
   artist?: string;
@@ -24,9 +23,6 @@ interface MediaSession {
   playbackState: PlaybackState;
   setActionHandler: (action: string, handler: (() => void) | null) => void;
 }
-
-
-
 
 declare interface Navigator {
   mediaSession: MediaSession;
