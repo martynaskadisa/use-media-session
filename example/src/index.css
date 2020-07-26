@@ -37,6 +37,7 @@ pre {
   border-color: currentcolor;
   border-image: initial;
   border-radius: 3px;
+  overflow: auto;
 }
 
 .button {
@@ -53,7 +54,7 @@ pre {
 
 .button:hover {
   background: var(--text-color);
-  color: var(--background)
+  color: var(--background);
 }
 
 *,
