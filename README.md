@@ -1,11 +1,11 @@
+[![NPM](https://img.shields.io/npm/v/use-media-session.svg)](https://www.npmjs.com/package/use-media-session)
+[![bundlephobia](https://img.shields.io/bundlephobia/minzip/use-media-session)](https://bundlephobia.com/result?p=use-media-session)
+
 # [use-media-session](https://martynaskadisa.github.io/use-media-session/)
 
 > Hooks for interacting with Media Session API
 
 [Demo](https://martynaskadisa.github.io/use-media-session/)
-
-[![NPM](https://img.shields.io/npm/v/use-media-session.svg)](https://www.npmjs.com/package/use-media-session)
-[![bundlephobia](https://img.shields.io/bundlephobia/minzip/use-media-session)](https://bundlephobia.com/result?p=use-media-session)
 
 ## Install
 
