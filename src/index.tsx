@@ -49,6 +49,7 @@ interface MediaSessionOptions {
   onSeekTo?: () => void;
   onSkipAd?: () => void;
   onStop?: () => void;
+  // @TODO: add support for positionState
 }
 
 const bindActionHandler = (action: string, callback?: () => void) => {

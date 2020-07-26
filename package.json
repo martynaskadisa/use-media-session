@@ -2,6 +2,12 @@
   "name": "use-media-session",
   "version": "0.0.1",
   "description": "Hooks for interacting with Media Session API",
+  "keywords": [
+    "mediasession",
+    "mediasession-api",
+    "react",
+    "hooks"
+  ],
   "author": "martynaskadisa",
   "license": "MIT",
   "repository": "martynaskadisa/use-media-session",
