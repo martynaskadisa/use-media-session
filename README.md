@@ -3,7 +3,7 @@
 
 # [use-media-session](https://martynaskadisa.github.io/use-media-session/)
 
-> Hooks for interacting with Media Session API
+> React hooks for interacting with Media Session API
 
 [Demo](https://martynaskadisa.github.io/use-media-session/)
 
