@@ -1,6 +1,6 @@
 {
   "name": "use-media-session",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hooks for interacting with Media Session API",
   "keywords": [
     "mediasession",
